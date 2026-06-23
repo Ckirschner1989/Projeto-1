@@ -4,7 +4,7 @@
 O DataView PY é um projeto de análise exploratória de dados (EDA) de vendas do banco de dados "US Superstore data" retirado do site "https://www.kaggle.com/datasets/juhi1994/superstore/data", 
 desenvolvido em Python em um notebook do colab. O notebook lê, limpa, transforma, 
 analisa e visualiza um dataset de vendas, gerando métricas e insights. 
-## O que o projeto analisa - Receita total e volume de vendas por mês - Top produtos e categorias por receita - Desempenho por estado "EUA"- Segmentação de clientes por nível de gasto (Bronze, Prata, Ouro) - Comparação entre os dados com e sem tratamento de outliers (v1 e v2) - Exportação de relatórios em CSV e JSON 
+## O que o projeto analisa - Receita total e volume de vendas por mês - Top produtos em venda, receita por categoria - Desempenho por estado "EUA"- Segmentação de clientes por nível de gasto (Bronze, Prata, Ouro) - Comparação entre os dados com e sem tratamento de outliers (v1 e v2) - Exportação de relatórios em CSV e JSON 
 ## Objetivo 
 Praticar os principais conceitos: - Lógica de programação com Python - Variáveis, tipos de dados e operadores - Condicionais (if, elif, else) e repetição (for, while) - Funções com parâmetros, retorno e funções lambda - Funções reutilizáveis - Leitura e escrita de arquivos CSV e JSON - Módulo datetime para manipulação de datas - Expressões regulares com o módulo re - Pandas: DataFrames, limpeza, groupby, filtros e transformações - NumPy: arrays, operações vetorizadas, broadcasting - Detecção e tratamento de outliers (IQR ou z-score) - Matplotlib e Seaborn: gráficos, customização e exportação em PNG - Uso básico do GitHub 
 ## Como executar 
