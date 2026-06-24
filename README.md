@@ -32,19 +32,19 @@ Praticar os principais conceitos:
 3. Execute as células na ordem, de cima para baixo 
 ## Estrutura do projeto 
 projeto/ 
-|-- data/ 
+- data/ 
 |        dataset bruto
 |        V_1 com outliers
 |        V2 outliers tratado
-|-- Notebook
+- Notebook
 |        Projeto.ipynb  
 |   
-|-- outputs/ 
+- outputs/ 
 |         Gráficos 
 |         US Superstore data (1)_v2_clientes.csv
 |         US Superstore data (1)_v2_por_mes.csv
 |         US Superstore data (1)_v2_stats.json 
-|-- final/                   
+- final/                   
                   
 # Dataset bruto gerado/baixado 
 "US Superstore data" retirado do site 
