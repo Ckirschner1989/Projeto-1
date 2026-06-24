@@ -31,35 +31,46 @@ Praticar os principais conceitos:
 2. Abra o arquivo carregado no Colab 
 3. Execute as células na ordem, de cima para baixo 
 ## Estrutura do projeto 
-projeto/ 
-- data/ 
-|        dataset bruto
-|        V_1 com outliers
-|        V2 outliers tratado
+projeto
+- data 
+
+           dataset bruto
+  
+           V_1 com outliers
+  
+           V2 outliers tratado
+  
 - Notebook
-|        Projeto.ipynb  
-|   
-- outputs/ 
-|         Gráficos 
-|         US Superstore data (1)_v2_clientes.csv
-|         US Superstore data (1)_v2_por_mes.csv
-|         US Superstore data (1)_v2_stats.json 
-- final/                   
+
+          Projeto.ipynb  
+ 
+- outputs
+  
+          Gráficos 
+
+          US Superstore data (1)_v2_clientes.csv
+
+          US Superstore data (1)_v2_por_mes.csv
+
+          US Superstore data (1)_v2_stats.json 
+
+- final                   
                   
 # Dataset bruto gerado/baixado 
 "US Superstore data" retirado do site 
 "https://www.kaggle.com/datasets/juhi1994/superstore/data"
 no dia 18/06/2026
 # Dados de limpeza geral, outliers mantidos 
-|-- v2_outliers_tratado/ # Limpeza v1 + tratamento de outliers 
+- v2_outliers_tratado
+- Limpeza v1 + tratamento de outliers 
 # Dataset escolhido para uso futuro 
-|-- dataview.ipynb           
-|-- outputs/ 
-| metricas_por_mes.csv 
-| segmentacao_clientes.csv 
-| estatisticas_gerais.json 
-| graficos/ 
-| README.md   
+  - dataview.ipynb           
+  - outputs
+  - metricas_por_mes.csv 
+  - segmentacao_clientes.csv 
+  - estatisticas_gerais.json 
+  - graficos
+  -  README.md   
 ## Ferramentas utilizadas 
 - Python 3.10+ 
 # Notebook principal de EDA 
